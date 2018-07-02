@@ -158,6 +158,17 @@ h1 {
     object-fit: contain;
 }
 
+.card6 {
+    float: left;
+    margin-left: 90px;
+    margin-bottom: 90px;
+    color: white;
+    background-color: #555555;
+    border: 2px solid red;
+    overflow: hidden;
+    object-fit: contain;
+}
+
 .coding1 {
     float: left;
     margin-left: 90px;
